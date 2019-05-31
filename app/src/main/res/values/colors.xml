@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="status_bar">#99FFFFFF</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="main_green">#47A127</color>
+
+
+    <color name="transparent">#00000000</color>
+    <color name="red">#FFFF0000</color>
+    <color name="black">#FF000000</color>
+    <color name="blue">#FF0000FF</color>
+    <color name="green">#FF00FF00</color>
+    <color name="link">#E02A5CAA</color>
+    <color name="title">#FF29B5EA</color>
+    <color name="silver">#FFA1A3A6</color>
+    <color name="grey_0">#80F6F6F6</color>
+    <color name="grey_1">#FFE3E3E3</color>
+    <color name="grey_2">#FFDDDDDD</color>
+    <color name="grey_3">#FFCCCCCC</color>
+    <color name="grey_4">#FF999999</color>
+    <color name="grey_5">#FF828282</color>
+    <color name="grey_6">#FF4D4D4D</color>
+    <color name="grey_7">#804D4D4D</color>
+
+
+
+    <color name="grey">#FF999999</color>
+    <color name="grey1">#FF828282</color>
+
+</resources>

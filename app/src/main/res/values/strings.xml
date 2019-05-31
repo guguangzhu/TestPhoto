@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">TestPhoto</string>
+
+    <string name="connect_error">网络连接失败,请检查网络</string>
+    <string name="connect_timeout">连接超时,请稍后再试</string>
+    <string name="bad_network">服务器异常</string>
+    <string name="parse_error">解析服务器响应数据失败</string>
+    <string name="unknown_error">未知错误</string>
+    <string name="response_return_error">服务器返回数据失败</string>
+
+
+    <string name="load">选图</string>
+    <string name="clear">清除</string>
+    <string name="erase">擦除</string>
+    <string name="save">保存</string>
+    <string name="about">关于</string>
+    <string name="finger_mode">模式</string>
+    <string name="mode_path">跟随手指</string>
+    <string name="mode_grid">方格模式</string>
+    <string name="effect">效果</string>
+    <string name="effect_grid">方格</string>
+    <string name="effect_blur">毛玻璃</string>
+    <string name="effect_color">纯色</string>
+    <string name="choose_image">选择一张图片</string>
+    <string name="email">Email</string>
+    <string name="qq">QQ: 752481163</string>
+    <string name="github">Github</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
